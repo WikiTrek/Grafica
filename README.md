@@ -2,5 +2,9 @@
 
 Questo *repository* raccoglie la Grafica open-source.
 
+## Badges
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/Creative_Commons-BY_SA_4-black?logo=creativecommons)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Built with Visual Studio Code](https://img.shields.io/badge/Built_with-Inkscape-5976AE?logo=inkscape)](https://code.visualstudio.com)
+
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" align="left" /></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
